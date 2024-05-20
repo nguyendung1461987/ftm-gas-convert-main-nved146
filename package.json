@@ -1,0 +1,35 @@
+{
+  "name": "ftm-gas-convert-main-nved146",
+  "version": "1.0.0",
+  "description": "ftm-gas-convert-main-nved146",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyendung1461987/ftm-gas-convert-main-nved146.git"
+  },
+  "keywords": [
+    "ftm-gas-convert-main-nved146",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "nguyendung1461987",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyendung1461987/ftm-gas-convert-main-nved146/issues"
+  },
+  "homepage": "https://github.com/nguyendung1461987/ftm-gas-convert-main-nved146#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "ftm-gas-convert-main-nved146": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+	"excel-utils-phuongdh": "^1.0.1",
+	"file-operations-dhp": "^1.0.2"
+  }
+}
